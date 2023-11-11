@@ -4,5 +4,5 @@ Django==4.2.7
 sqlparse==0.4.4
 typing-extensions==4.8.0
 tzdata==2023.3
-pysqlite==3.8.3
+pysqlite3
 pysqlite3-binary
